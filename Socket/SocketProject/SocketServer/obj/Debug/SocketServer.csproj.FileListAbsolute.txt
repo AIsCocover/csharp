@@ -1,0 +1,6 @@
+E:\codeprojects\visualstudio\Projects\SocketProject\SocketServer\bin\Debug\SocketServer.exe.config
+E:\codeprojects\visualstudio\Projects\SocketProject\SocketServer\bin\Debug\SocketServer.exe
+E:\codeprojects\visualstudio\Projects\SocketProject\SocketServer\bin\Debug\SocketServer.pdb
+E:\codeprojects\visualstudio\Projects\SocketProject\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+E:\codeprojects\visualstudio\Projects\SocketProject\SocketServer\obj\Debug\SocketServer.exe
+E:\codeprojects\visualstudio\Projects\SocketProject\SocketServer\obj\Debug\SocketServer.pdb

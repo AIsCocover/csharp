@@ -1,0 +1,8 @@
+E:\codeprojects\visualstudio\Projects\BlackHouse\Server\bin\Debug\Server.exe.config
+E:\codeprojects\visualstudio\Projects\BlackHouse\Server\bin\Debug\Server.exe
+E:\codeprojects\visualstudio\Projects\BlackHouse\Server\bin\Debug\Server.pdb
+E:\codeprojects\visualstudio\Projects\BlackHouse\Server\obj\Debug\Server.Properties.Resources.resources
+E:\codeprojects\visualstudio\Projects\BlackHouse\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\codeprojects\visualstudio\Projects\BlackHouse\Server\obj\Debug\Server.exe
+E:\codeprojects\visualstudio\Projects\BlackHouse\Server\obj\Debug\Server.pdb
+E:\codeprojects\visualstudio\Projects\BlackHouse\Server\obj\Debug\Server.BlackHouseServer.resources

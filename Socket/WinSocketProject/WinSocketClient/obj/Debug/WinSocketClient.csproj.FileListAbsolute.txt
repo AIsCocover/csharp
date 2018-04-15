@@ -1,0 +1,8 @@
+E:\codeprojects\visualstudio\Projects\WinSocketProject\WinSocketClient\obj\Debug\WinSocketClient.FormSocketClient.resources
+E:\codeprojects\visualstudio\Projects\WinSocketProject\WinSocketClient\obj\Debug\WinSocketClient.Properties.Resources.resources
+E:\codeprojects\visualstudio\Projects\WinSocketProject\WinSocketClient\obj\Debug\WinSocketClient.csproj.GenerateResource.Cache
+E:\codeprojects\visualstudio\Projects\WinSocketProject\WinSocketClient\bin\Debug\WinSocketClient.exe.config
+E:\codeprojects\visualstudio\Projects\WinSocketProject\WinSocketClient\bin\Debug\WinSocketClient.exe
+E:\codeprojects\visualstudio\Projects\WinSocketProject\WinSocketClient\bin\Debug\WinSocketClient.pdb
+E:\codeprojects\visualstudio\Projects\WinSocketProject\WinSocketClient\obj\Debug\WinSocketClient.exe
+E:\codeprojects\visualstudio\Projects\WinSocketProject\WinSocketClient\obj\Debug\WinSocketClient.pdb

@@ -1,0 +1,5 @@
+E:\codeprojects\visualstudio\Projects\SocketProject\SocketClient\bin\Debug\SocketClient.exe.config
+E:\codeprojects\visualstudio\Projects\SocketProject\SocketClient\bin\Debug\SocketClient.exe
+E:\codeprojects\visualstudio\Projects\SocketProject\SocketClient\bin\Debug\SocketClient.pdb
+E:\codeprojects\visualstudio\Projects\SocketProject\SocketClient\obj\Debug\SocketClient.exe
+E:\codeprojects\visualstudio\Projects\SocketProject\SocketClient\obj\Debug\SocketClient.pdb

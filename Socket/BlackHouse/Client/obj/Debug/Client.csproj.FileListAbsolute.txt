@@ -1,0 +1,9 @@
+E:\codeprojects\visualstudio\Projects\BlackHouse\Client\bin\Debug\Client.exe.config
+E:\codeprojects\visualstudio\Projects\BlackHouse\Client\bin\Debug\Client.exe
+E:\codeprojects\visualstudio\Projects\BlackHouse\Client\bin\Debug\Client.pdb
+E:\codeprojects\visualstudio\Projects\BlackHouse\Client\obj\Debug\Client.BlackHouseClient.resources
+E:\codeprojects\visualstudio\Projects\BlackHouse\Client\obj\Debug\Client.Properties.Resources.resources
+E:\codeprojects\visualstudio\Projects\BlackHouse\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\codeprojects\visualstudio\Projects\BlackHouse\Client\obj\Debug\Client.exe
+E:\codeprojects\visualstudio\Projects\BlackHouse\Client\obj\Debug\Client.pdb
+E:\codeprojects\visualstudio\Projects\BlackHouse\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
